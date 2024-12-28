@@ -21,12 +21,14 @@
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-  
+
+![Git](https://camo.githubusercontent.com/b0fb9ad6573ab51d6f22e6fcee7089903fc245c8ef5721219e061a223477e0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)&nbsp;
+
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/-LowLevel-000000?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
 
 
-<img align="right" alt="Coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmE0M2MzdXRjODdpdWRsdWx0bmpkNGphcnJmaGpiaWxlZ2Fqa3Z0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
+<img align="center" alt="Coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmE0M2MzdXRjODdpdWRsdWx0bmpkNGphcnJmaGpiaWxlZ2Fqa3Z0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
 
 
 <div align="center">
