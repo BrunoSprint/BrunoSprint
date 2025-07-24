@@ -17,14 +17,6 @@
 ### Main skills:
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,nodejs,linux,vscode,git,github&theme=dark" alt="Main Skills:"/>&nbsp;
 
-
-### Tools:
-
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Git](https://camo.githubusercontent.com/b0fb9ad6573ab51d6f22e6fcee7089903fc245c8ef5721219e061a223477e0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-
-
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/-LowLevel-000000?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
 
@@ -33,7 +25,7 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrumoSprint}/count.svg" /></p> 
 <br></div>
   
