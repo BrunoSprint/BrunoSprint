@@ -23,12 +23,6 @@
 
 <img align="center" alt="Coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmE0M2MzdXRjODdpdWRsdWx0bmpkNGphcnJmaGpiaWxlZ2Fqa3Z0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
 
-
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrumoSprint}/count.svg" /></p> 
-<br></div>
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>&nbsp;
 
 
